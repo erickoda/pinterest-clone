@@ -1,4 +1,4 @@
-<h1>CLONE Pinterest</h1>
+<h1>CLONE Pinterest animações</h1>
 
 ## SOBRE ✔
 Este projeto teve como objetivo principal o estudo de **Animações**, com o uso de **Sass** e **JavaScript**.
